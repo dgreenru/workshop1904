@@ -1,0 +1,76 @@
+
+Button.png
+size: 514,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+blik
+  rotate: false
+  xy: 258, 114
+  size: 213, 140
+  orig: 213, 140
+  offset: 0, 0
+  index: -1
+button_edge
+  rotate: false
+  xy: 284, 256
+  size: 229, 131
+  orig: 229, 131
+  offset: 0, 0
+  index: -1
+button_top
+  rotate: false
+  xy: 284, 389
+  size: 230, 157
+  orig: 230, 157
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 0, 216
+  size: 256, 152
+  orig: 256, 152
+  offset: 0, 0
+  index: -1
+hole_blik
+  rotate: false
+  xy: 0, 370
+  size: 282, 176
+  orig: 282, 176
+  offset: 0, 0
+  index: -1
+ic_attack
+  rotate: false
+  xy: 109, 108
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+ic_gender 
+  rotate: false
+  xy: 217, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+ic_hair
+  rotate: false
+  xy: 325, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+ic_jump
+  rotate: false
+  xy: 109, 0
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+ic_run
+  rotate: false
+  xy: 0, 107
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1

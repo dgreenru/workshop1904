@@ -1,0 +1,369 @@
+
+character.png
+size: 1838,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+boy/belki
+  rotate: false
+  xy: 1488, 378
+  size: 338, 204
+  orig: 338, 204
+  offset: 0, 0
+  index: -1
+boy/kosa
+  rotate: false
+  xy: 402, 48
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: -1
+boy/lico
+  rotate: false
+  xy: 0, 12
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boy/oruzhie
+  rotate: false
+  xy: 768, 0
+  size: 358, 412
+  orig: 358, 412
+  offset: 0, 0
+  index: -1
+boy/volosi
+  rotate: false
+  xy: 0, 414
+  size: 534, 534
+  orig: 534, 534
+  offset: 0, 0
+  index: -1
+girl/belki
+  rotate: false
+  xy: 1488, 172
+  size: 338, 204
+  orig: 338, 204
+  offset: 0, 0
+  index: -1
+girl/kosa
+  rotate: false
+  xy: 1474, 584
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: -1
+girl/lico
+  rotate: false
+  xy: 1072, 548
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+girl/oruzhie
+  rotate: false
+  xy: 1128, 134
+  size: 358, 412
+  orig: 358, 412
+  offset: 0, 0
+  index: -1
+girl/volosi
+  rotate: false
+  xy: 536, 414
+  size: 534, 534
+  orig: 534, 534
+  offset: 0, 0
+  index: -1
+
+character2.png
+size: 1974,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+bg
+  rotate: false
+  xy: 576, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+boy/body
+  rotate: false
+  xy: 0, 34
+  size: 286, 306
+  orig: 286, 306
+  offset: 0, 0
+  index: -1
+boy/glaz
+  rotate: false
+  xy: 1798, 18
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+boy/ladon_2_left
+  rotate: false
+  xy: 678, 8
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+boy/ladon_left
+  rotate: false
+  xy: 772, 8
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+boy/ladon_right
+  rotate: false
+  xy: 866, 8
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+boy/noga_2_left
+  rotate: false
+  xy: 1376, 222
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+boy/noga_2_right
+  rotate: false
+  xy: 1376, 102
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+boy/noga_3_left
+  rotate: false
+  xy: 1476, 222
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+boy/noga_3_right
+  rotate: false
+  xy: 1476, 102
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+boy/noga_left
+  rotate: false
+  xy: 1576, 222
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+boy/noga_right
+  rotate: false
+  xy: 1576, 102
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+boy/nos
+  rotate: false
+  xy: 1618, 0
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+boy/rot
+  rotate: false
+  xy: 1618, 46
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+boy/ruka_2_left
+  rotate: false
+  xy: 896, 222
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+boy/ruka_2_right
+  rotate: false
+  xy: 896, 102
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+boy/ruka_left
+  rotate: false
+  xy: 1016, 222
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+boy/ruka_right
+  rotate: false
+  xy: 1016, 102
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+boy/uho_levoe
+  rotate: false
+  xy: 960, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+boy/uho_pravoe
+  rotate: false
+  xy: 1054, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+boy/volosi_2
+  rotate: false
+  xy: 576, 102
+  size: 158, 238
+  orig: 158, 238
+  offset: 0, 0
+  index: -1
+girl/body
+  rotate: false
+  xy: 288, 34
+  size: 286, 306
+  orig: 286, 306
+  offset: 0, 0
+  index: -1
+girl/glaz
+  rotate: false
+  xy: 1882, 18
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+girl/ladon_2_left
+  rotate: false
+  xy: 1148, 8
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+girl/ladon_left
+  rotate: false
+  xy: 1242, 8
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+girl/ladon_right
+  rotate: false
+  xy: 1336, 8
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+girl/noga_2_left
+  rotate: false
+  xy: 1676, 222
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+girl/noga_2_right
+  rotate: false
+  xy: 1676, 102
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+girl/noga_3_left
+  rotate: false
+  xy: 1776, 222
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+girl/noga_3_right
+  rotate: false
+  xy: 1876, 222
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+girl/noga_left
+  rotate: false
+  xy: 1776, 102
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+girl/noga_right
+  rotate: false
+  xy: 1876, 102
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+girl/nos
+  rotate: false
+  xy: 1664, 0
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+girl/rot
+  rotate: false
+  xy: 1708, 46
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+girl/ruka_2_left
+  rotate: false
+  xy: 1136, 222
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+girl/ruka_2_right
+  rotate: false
+  xy: 1136, 102
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+girl/ruka_left
+  rotate: false
+  xy: 1256, 222
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+girl/ruka_right
+  rotate: false
+  xy: 1256, 102
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+girl/uho_levoe
+  rotate: false
+  xy: 1430, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+girl/uho_pravoe
+  rotate: false
+  xy: 1524, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+girl/volosi_2
+  rotate: false
+  xy: 736, 102
+  size: 158, 238
+  orig: 158, 238
+  offset: 0, 0
+  index: -1

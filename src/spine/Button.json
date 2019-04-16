@@ -1,0 +1,175 @@
+{
+"skeleton": { "hash": "7KgwICQ45kRPVFDKKJ7cyVEXDG8", "spine": "3.7.91", "width": 282, "height": 189.34 },
+"bones": [
+	{ "name": "root", "x": -349.37, "y": -175.7 },
+	{ "name": "bone", "parent": "root", "x": 57.87, "y": 20.5 }
+],
+"slots": [
+	{ "name": "hole_blik", "bone": "root", "attachment": "hole_blik" },
+	{ "name": "hole", "bone": "root", "attachment": "hole" },
+	{ "name": "button_edge", "bone": "root", "attachment": "button_edge" },
+	{ "name": "button_top", "bone": "bone", "attachment": "button_top" },
+	{ "name": "flash", "bone": "bone", "color": "ffffff00", "attachment": "button_top", "blend": "additive" },
+	{ "name": "blik", "bone": "bone", "attachment": "blik" },
+	{ "name": "ic_run", "bone": "bone", "attachment": "ic_run" }
+],
+"skins": {
+	"default": {
+		"blik": {
+			"blik": { "x": -58.62, "y": -3.47, "width": 213, "height": 140 }
+		},
+		"hole": {
+			"hole": { "x": -1.25, "y": -10.27, "width": 256, "height": 152 }
+		},
+		"hole_blik": {
+			"hole_blik": { "x": -1.25, "y": -10.27, "width": 282, "height": 176 }
+		}
+	},
+	"attack": {
+		"button_edge": {
+			"button_edge": { "color": "ba2828ff", "x": -0.75, "y": -20.77, "width": 229, "height": 131 }
+		},
+		"button_top": {
+			"button_top": { "color": "ff4c3cff", "x": -59.12, "y": -7.97, "width": 230, "height": 157 }
+		},
+		"flash": {
+			"button_top": { "x": -59.12, "y": -7.66, "width": 230, "height": 157 }
+		},
+		"ic_run": {
+			"ic_run": { "name": "ic_attack", "x": -59.62, "y": -3.97, "width": 106, "height": 106 }
+		}
+	},
+	"gender": {
+		"button_edge": {
+			"button_edge": { "color": "127d2bff", "x": -0.75, "y": -20.77, "width": 229, "height": 131 }
+		},
+		"button_top": {
+			"button_top": { "color": "61c558ff", "x": -59.12, "y": -7.97, "width": 230, "height": 157 }
+		},
+		"flash": {
+			"button_top": { "x": -59.12, "y": -8.05, "width": 230, "height": 157 }
+		},
+		"ic_run": {
+			"ic_run": { "name": "ic_gender", "x": -59.62, "y": -3.97, "width": 106, "height": 106 }
+		}
+	},
+	"hair": {
+		"button_edge": {
+			"button_edge": { "color": "007eb6ff", "x": -0.75, "y": -20.77, "width": 229, "height": 131 }
+		},
+		"button_top": {
+			"button_top": { "color": "00bbffff", "x": -59.12, "y": -7.97, "width": 230, "height": 157 }
+		},
+		"flash": {
+			"button_top": { "x": -59.12, "y": -8.92, "width": 230, "height": 157 }
+		},
+		"ic_run": {
+			"ic_run": { "name": "ic_hair", "x": -59.62, "y": -3.97, "width": 106, "height": 106 }
+		}
+	},
+	"jump": {
+		"button_edge": {
+			"button_edge": { "color": "c03e6eff", "x": -0.75, "y": -20.77, "width": 229, "height": 131 }
+		},
+		"button_top": {
+			"button_top": { "color": "ff709eff", "x": -59.12, "y": -7.97, "width": 230, "height": 157 }
+		},
+		"flash": {
+			"button_top": { "x": -59.12, "y": -7.62, "width": 230, "height": 157 }
+		},
+		"ic_run": {
+			"ic_run": { "name": "ic_jump", "x": -59.62, "y": -3.97, "width": 106, "height": 106 }
+		}
+	},
+	"run": {
+		"button_edge": {
+			"button_edge": { "color": "b67500ff", "x": -0.75, "y": -20.77, "width": 229, "height": 131 }
+		},
+		"button_top": {
+			"button_top": { "color": "ffb200ff", "x": -59.12, "y": -7.97, "width": 230, "height": 157 }
+		},
+		"flash": {
+			"button_top": { "x": -59.12, "y": -7.93, "width": 230, "height": 157 }
+		},
+		"ic_run": {
+			"ic_run": { "x": -59.62, "y": -3.97, "width": 107, "height": 107 }
+		}
+	}
+},
+"animations": {
+	"hover": {
+		"slots": {
+			"flash": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.365, -0.01, 0.695, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"color": "ffffff1a",
+						"curve": [ 0.365, -0.01, 0.695, 1 ]
+					},
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.35, -0.01, 0.682, 0.5 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": -8.3,
+						"curve": [ 0.348, 0.5, 0.681, 1 ]
+					},
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"press": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.365, -0.01, 0.695, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 0,
+						"y": -20.82,
+						"curve": [ 0.365, -0.01, 0.695, 1 ]
+					},
+					{ "time": 0.2667, "x": 0, "y": -14.36 }
+				]
+			}
+		}
+	},
+	"up": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": -14.36,
+						"curve": [ -0.005, 0.37, 0.508, 0.97 ]
+					},
+					{ "time": 0.1667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}
